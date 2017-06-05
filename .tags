@@ -1,0 +1,10 @@
+fetchPosts	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/actions/index.js	/^export function fetchPosts() {$/;"	function	line:11
+createPost	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/actions/index.js	/^export function createPost(props) {$/;"	function	line:20
+fetchPost	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/actions/index.js	/^export function fetchPost(id) {$/;"	function	line:29
+deletePost	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/actions/index.js	/^export function deletePost(id) {$/;"	function	line:38
+class.router	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/components/posts_show.js	/^  static contextTypes = {$/;"	property	line:7
+componentWillMount	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/components/posts_show.js	/^  componentWillMount() {$/;"	function	line:11
+onDeleteClick	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/components/posts_show.js	/^  onDeleteClick() {$/;"	function	line:15
+render	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/components/posts_show.js	/^  render() {$/;"	function	line:22
+mapStateToProps	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/components/posts_show.js	/^function mapStateToProps(state) {$/;"	function	line:45
+mapStateToProps	/Users/mdixon/Documents/Development/personal/udemy/Blog/src/components/posts_show.js	/^function mapStateToProps(state) {$/;"	function	line:45
